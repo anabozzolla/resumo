@@ -51,6 +51,7 @@ nav ul li a{
     height: 0px;
     overflow: hidden;
     transition: height 0.5s;
+    transition: width 0.5s;
 }
 
 #lista-menu:hover #menu-lista{
